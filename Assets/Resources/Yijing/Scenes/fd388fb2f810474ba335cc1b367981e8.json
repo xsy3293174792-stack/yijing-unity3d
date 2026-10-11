@@ -1,0 +1,28 @@
+{
+  "id": "fd388fb2f810474ba335cc1b367981e8",
+  "title": "午后公园 · 文生图实测",
+  "createdAt": "2026-09-30T13:19:59.002723+00:00",
+  "source": "sd_api",
+  "description": "",
+  "theme": "garden",
+  "density": "simple",
+  "lighting": "evening",
+  "request": {
+    "prompt": "a quiet park corner, a wooden bench, a stone path, flowering bushes, a small pavilion, a red watering can beside a wooden bench, a flower pot in the foreground, simple spacious composition, few distinct objects, warm afternoon sunlight, wide view, detailed background illustration, clear objects, empty scene, no people",
+    "negative_prompt": "people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture",
+    "seed": -1,
+    "steps": 20,
+    "cfg_scale": 7,
+    "width": 768,
+    "height": 512,
+    "sampler_name": "Euler a",
+    "batch_size": 1,
+    "n_iter": 1,
+    "save_images": false
+  },
+  "generationInfo": "{\"prompt\": \"a quiet park corner, a wooden bench, a stone path, flowering bushes, a small pavilion, a red watering can beside a wooden bench, a flower pot in the foreground, simple spacious composition, few distinct objects, warm afternoon sunlight, wide view, detailed background illustration, clear objects, empty scene, no people\", \"all_prompts\": [\"a quiet park corner, a wooden bench, a stone path, flowering bushes, a small pavilion, a red watering can beside a wooden bench, a flower pot in the foreground, simple spacious composition, few distinct objects, warm afternoon sunlight, wide view, detailed background illustration, clear objects, empty scene, no people\"], \"negative_prompt\": \"people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\", \"all_negative_prompts\": [\"people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\"], \"seed\": 4046039737, \"all_seeds\": [4046039737], \"subseed\": 852102777, \"all_subseeds\": [852102777], \"subseed_strength\": 0, \"width\": 768, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a quiet park corner, a wooden bench, a stone path, flowering bushes, a small pavilion, a red watering can beside a wooden bench, a flower pot in the foreground, simple spacious composition, few distinct objects, warm afternoon sunlight, wide view, detailed background illustration, clear objects, empty scene, no people\\nNegative prompt: people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 4046039737, Size: 768x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20260930211953\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+  "elapsedSeconds": 5.72,
+  "annotations": [],
+  "reviewed": false,
+  "revision": 0
+}

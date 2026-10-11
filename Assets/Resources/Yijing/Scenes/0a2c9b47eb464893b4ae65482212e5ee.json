@@ -1,0 +1,51 @@
+{
+  "id": "0a2c9b47eb464893b4ae65482212e5ee",
+  "title": "家中就餐",
+  "createdAt": "2026-09-30T13:51:32.571757+00:00",
+  "source": "sd_api",
+  "description": "",
+  "theme": "living",
+  "density": "simple",
+  "lighting": "day",
+  "request": {
+    "prompt": "a cozy Chinese living room, a sofa, a coffee table, a bookshelf, a floor lamp, simple spacious composition, few distinct objects, soft morning daylight, wide view, detailed background illustration, clear objects, empty scene, no people",
+    "negative_prompt": "people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture",
+    "seed": -1,
+    "steps": 20,
+    "cfg_scale": 7,
+    "width": 768,
+    "height": 512,
+    "sampler_name": "Euler a",
+    "batch_size": 1,
+    "n_iter": 1,
+    "save_images": false
+  },
+  "generationInfo": "{\"prompt\": \"a cozy Chinese living room, a sofa, a coffee table, a bookshelf, a floor lamp, simple spacious composition, few distinct objects, soft morning daylight, wide view, detailed background illustration, clear objects, empty scene, no people\", \"all_prompts\": [\"a cozy Chinese living room, a sofa, a coffee table, a bookshelf, a floor lamp, simple spacious composition, few distinct objects, soft morning daylight, wide view, detailed background illustration, clear objects, empty scene, no people\"], \"negative_prompt\": \"people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\", \"all_negative_prompts\": [\"people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\"], \"seed\": 2595662303, \"all_seeds\": [2595662303], \"subseed\": 3948063807, \"all_subseeds\": [3948063807], \"subseed_strength\": 0, \"width\": 768, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a cozy Chinese living room, a sofa, a coffee table, a bookshelf, a floor lamp, simple spacious composition, few distinct objects, soft morning daylight, wide view, detailed background illustration, clear objects, empty scene, no people\\nNegative prompt: people, person, human, text, watermark, signature, blurry, dark, horror, distorted furniture\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 2595662303, Size: 768x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20260930215126\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+  "elapsedSeconds": 6.02,
+  "annotations": [
+    {
+      "id": "224428a2",
+      "label": "台灯",
+      "x": 0.4190358151101156,
+      "y": 0.24839933242815213,
+      "zone": 1
+    },
+    {
+      "id": "a14ad020",
+      "label": "沙发",
+      "x": 0.5692212178708208,
+      "y": 0.5126169568443811,
+      "zone": 4
+    },
+    {
+      "id": "7e72bde5",
+      "label": "茶几",
+      "x": 0.502472149977174,
+      "y": 0.7017411511633661,
+      "zone": 7
+    }
+  ],
+  "reviewed": true,
+  "revision": 1,
+  "reviewedAt": "2026-10-01T03:27:32.500426+00:00"
+}

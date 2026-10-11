@@ -1,0 +1,40 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+/Recordings/
+
+# Editor and IDE files
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files and local configuration
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+*.keystore
+*.jks
+*.log
+sysinfo.txt
+crashlytics-build.properties

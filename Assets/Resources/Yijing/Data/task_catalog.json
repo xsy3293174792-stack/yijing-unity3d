@@ -1,0 +1,716 @@
+{
+  "attention": [
+    {
+      "id": "home",
+      "name": "家中日用",
+      "items": [
+        {
+          "icon": "apple",
+          "label": "苹果"
+        },
+        {
+          "icon": "cup",
+          "label": "茶杯"
+        },
+        {
+          "icon": "teapot",
+          "label": "茶壶"
+        },
+        {
+          "icon": "clock",
+          "label": "时钟"
+        },
+        {
+          "icon": "flower",
+          "label": "盆花"
+        },
+        {
+          "icon": "basket",
+          "label": "篮子"
+        }
+      ]
+    },
+    {
+      "id": "fruit",
+      "name": "水果摊",
+      "items": [
+        {
+          "icon": "fruit-0",
+          "label": "苹果"
+        },
+        {
+          "icon": "fruit-1",
+          "label": "香蕉"
+        },
+        {
+          "icon": "fruit-2",
+          "label": "橙子"
+        },
+        {
+          "icon": "fruit-3",
+          "label": "葡萄"
+        },
+        {
+          "icon": "fruit-4",
+          "label": "梨"
+        },
+        {
+          "icon": "fruit-5",
+          "label": "草莓"
+        }
+      ]
+    },
+    {
+      "id": "vegetable",
+      "name": "蔬菜篮",
+      "items": [
+        {
+          "icon": "vegetable-0",
+          "label": "胡萝卜"
+        },
+        {
+          "icon": "vegetable-1",
+          "label": "西红柿"
+        },
+        {
+          "icon": "vegetable-2",
+          "label": "黄瓜"
+        },
+        {
+          "icon": "vegetable-3",
+          "label": "茄子"
+        },
+        {
+          "icon": "vegetable-4",
+          "label": "西兰花"
+        },
+        {
+          "icon": "vegetable-5",
+          "label": "玉米"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "动物朋友",
+      "items": [
+        {
+          "icon": "animals-0",
+          "label": "猫"
+        },
+        {
+          "icon": "animals-1",
+          "label": "狗"
+        },
+        {
+          "icon": "animals-2",
+          "label": "兔子"
+        },
+        {
+          "icon": "animals-3",
+          "label": "熊猫"
+        },
+        {
+          "icon": "animals-4",
+          "label": "大象"
+        },
+        {
+          "icon": "animals-5",
+          "label": "马"
+        }
+      ]
+    },
+    {
+      "id": "farm",
+      "name": "农场伙伴",
+      "items": [
+        {
+          "icon": "farm-0",
+          "label": "鸡"
+        },
+        {
+          "icon": "farm-1",
+          "label": "鸭"
+        },
+        {
+          "icon": "farm-2",
+          "label": "鹅"
+        },
+        {
+          "icon": "farm-3",
+          "label": "奶牛"
+        },
+        {
+          "icon": "farm-4",
+          "label": "绵羊"
+        },
+        {
+          "icon": "farm-5",
+          "label": "猪"
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "name": "水中伙伴",
+      "items": [
+        {
+          "icon": "ocean-0",
+          "label": "金鱼"
+        },
+        {
+          "icon": "ocean-1",
+          "label": "海龟"
+        },
+        {
+          "icon": "ocean-2",
+          "label": "螃蟹"
+        },
+        {
+          "icon": "ocean-3",
+          "label": "海豚"
+        },
+        {
+          "icon": "ocean-4",
+          "label": "章鱼"
+        },
+        {
+          "icon": "ocean-5",
+          "label": "海马"
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "name": "花园赏花",
+      "items": [
+        {
+          "icon": "flowers-0",
+          "label": "向日葵"
+        },
+        {
+          "icon": "flowers-1",
+          "label": "玫瑰"
+        },
+        {
+          "icon": "flowers-2",
+          "label": "郁金香"
+        },
+        {
+          "icon": "flowers-3",
+          "label": "荷花"
+        },
+        {
+          "icon": "flowers-4",
+          "label": "雏菊"
+        },
+        {
+          "icon": "flowers-5",
+          "label": "兰花"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "出行工具",
+      "items": [
+        {
+          "icon": "travel-0",
+          "label": "自行车"
+        },
+        {
+          "icon": "travel-1",
+          "label": "公交车"
+        },
+        {
+          "icon": "travel-2",
+          "label": "轿车"
+        },
+        {
+          "icon": "travel-3",
+          "label": "火车"
+        },
+        {
+          "icon": "travel-4",
+          "label": "飞机"
+        },
+        {
+          "icon": "travel-5",
+          "label": "轮船"
+        }
+      ]
+    },
+    {
+      "id": "clothes",
+      "name": "衣物鞋帽",
+      "items": [
+        {
+          "icon": "clothes-0",
+          "label": "帽子"
+        },
+        {
+          "icon": "clothes-1",
+          "label": "衬衫"
+        },
+        {
+          "icon": "clothes-2",
+          "label": "裤子"
+        },
+        {
+          "icon": "clothes-3",
+          "label": "鞋子"
+        },
+        {
+          "icon": "clothes-4",
+          "label": "围巾"
+        },
+        {
+          "icon": "clothes-5",
+          "label": "手套"
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "name": "学习用品",
+      "items": [
+        {
+          "icon": "school-0",
+          "label": "书本"
+        },
+        {
+          "icon": "school-1",
+          "label": "铅笔"
+        },
+        {
+          "icon": "school-2",
+          "label": "尺子"
+        },
+        {
+          "icon": "school-3",
+          "label": "橡皮"
+        },
+        {
+          "icon": "school-4",
+          "label": "剪刀"
+        },
+        {
+          "icon": "school-5",
+          "label": "书包"
+        }
+      ]
+    },
+    {
+      "id": "utensils",
+      "name": "厨房用具",
+      "items": [
+        {
+          "icon": "utensils-0",
+          "label": "锅"
+        },
+        {
+          "icon": "utensils-1",
+          "label": "碗"
+        },
+        {
+          "icon": "utensils-2",
+          "label": "盘子"
+        },
+        {
+          "icon": "utensils-3",
+          "label": "勺子"
+        },
+        {
+          "icon": "utensils-4",
+          "label": "筷子"
+        },
+        {
+          "icon": "utensils-5",
+          "label": "漏勺"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "name": "运动时光",
+      "items": [
+        {
+          "icon": "sports-0",
+          "label": "足球"
+        },
+        {
+          "icon": "sports-1",
+          "label": "篮球"
+        },
+        {
+          "icon": "sports-2",
+          "label": "乒乓球拍"
+        },
+        {
+          "icon": "sports-3",
+          "label": "羽毛球拍"
+        },
+        {
+          "icon": "sports-4",
+          "label": "跳绳"
+        },
+        {
+          "icon": "sports-5",
+          "label": "哑铃"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "name": "乐器小屋",
+      "items": [
+        {
+          "icon": "music-0",
+          "label": "钢琴"
+        },
+        {
+          "icon": "music-1",
+          "label": "吉他"
+        },
+        {
+          "icon": "music-2",
+          "label": "小提琴"
+        },
+        {
+          "icon": "music-3",
+          "label": "笛子"
+        },
+        {
+          "icon": "music-4",
+          "label": "鼓"
+        },
+        {
+          "icon": "music-5",
+          "label": "小号"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "家用工具",
+      "items": [
+        {
+          "icon": "tools-0",
+          "label": "锤子"
+        },
+        {
+          "icon": "tools-1",
+          "label": "螺丝刀"
+        },
+        {
+          "icon": "tools-2",
+          "label": "扳手"
+        },
+        {
+          "icon": "tools-3",
+          "label": "钳子"
+        },
+        {
+          "icon": "tools-4",
+          "label": "卷尺"
+        },
+        {
+          "icon": "tools-5",
+          "label": "刷子"
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "name": "早餐桌",
+      "items": [
+        {
+          "icon": "breakfast-0",
+          "label": "面包"
+        },
+        {
+          "icon": "breakfast-1",
+          "label": "鸡蛋"
+        },
+        {
+          "icon": "breakfast-2",
+          "label": "牛奶"
+        },
+        {
+          "icon": "breakfast-3",
+          "label": "包子"
+        },
+        {
+          "icon": "breakfast-4",
+          "label": "粥"
+        },
+        {
+          "icon": "breakfast-5",
+          "label": "油条"
+        }
+      ]
+    }
+  ],
+  "kitchen": [
+    {
+      "id": "fruitplate",
+      "name": "水果拼盘",
+      "steps": [
+        {
+          "id": "wash",
+          "label": "洗净水果",
+          "icon": "wash"
+        },
+        {
+          "id": "peel",
+          "label": "去掉果皮",
+          "icon": "peel"
+        },
+        {
+          "id": "cut",
+          "label": "切成小块",
+          "icon": "cut"
+        },
+        {
+          "id": "plate",
+          "label": "装入盘中",
+          "icon": "plate"
+        }
+      ]
+    },
+    {
+      "id": "tea",
+      "name": "泡一杯茶",
+      "steps": [
+        {
+          "id": "tea-0",
+          "label": "洗净杯子",
+          "icon": "tea-0"
+        },
+        {
+          "id": "tea-1",
+          "label": "放入茶叶",
+          "icon": "tea-1"
+        },
+        {
+          "id": "tea-2",
+          "label": "倒入热水",
+          "icon": "tea-2"
+        },
+        {
+          "id": "tea-3",
+          "label": "泡好端出",
+          "icon": "tea-3"
+        }
+      ]
+    },
+    {
+      "id": "sandwich",
+      "name": "蔬菜三明治",
+      "steps": [
+        {
+          "id": "sandwich-0",
+          "label": "铺好面包",
+          "icon": "sandwich-0"
+        },
+        {
+          "id": "sandwich-1",
+          "label": "放上生菜",
+          "icon": "sandwich-1"
+        },
+        {
+          "id": "sandwich-2",
+          "label": "加上番茄",
+          "icon": "sandwich-2"
+        },
+        {
+          "id": "sandwich-3",
+          "label": "盖上面包",
+          "icon": "sandwich-3"
+        }
+      ]
+    },
+    {
+      "id": "yogurt",
+      "name": "草莓酸奶",
+      "steps": [
+        {
+          "id": "yogurt-0",
+          "label": "洗净草莓",
+          "icon": "yogurt-0"
+        },
+        {
+          "id": "yogurt-1",
+          "label": "切开草莓",
+          "icon": "yogurt-1"
+        },
+        {
+          "id": "yogurt-2",
+          "label": "倒入酸奶",
+          "icon": "yogurt-2"
+        },
+        {
+          "id": "yogurt-3",
+          "label": "加入草莓",
+          "icon": "yogurt-3"
+        }
+      ]
+    },
+    {
+      "id": "cucumber",
+      "name": "凉拌黄瓜",
+      "steps": [
+        {
+          "id": "cucumber-0",
+          "label": "洗净黄瓜",
+          "icon": "cucumber-0"
+        },
+        {
+          "id": "cucumber-1",
+          "label": "切成小片",
+          "icon": "cucumber-1"
+        },
+        {
+          "id": "cucumber-2",
+          "label": "加入调料",
+          "icon": "cucumber-2"
+        },
+        {
+          "id": "cucumber-3",
+          "label": "拌匀装盘",
+          "icon": "cucumber-3"
+        }
+      ]
+    },
+    {
+      "id": "toast",
+      "name": "果酱吐司",
+      "steps": [
+        {
+          "id": "toast-0",
+          "label": "放入面包",
+          "icon": "toast-0"
+        },
+        {
+          "id": "toast-1",
+          "label": "烤好取出",
+          "icon": "toast-1"
+        },
+        {
+          "id": "toast-2",
+          "label": "抹果酱",
+          "icon": "toast-2"
+        },
+        {
+          "id": "toast-3",
+          "label": "装盘上桌",
+          "icon": "toast-3"
+        }
+      ]
+    },
+    {
+      "id": "noodles",
+      "name": "一碗面条",
+      "steps": [
+        {
+          "id": "noodles-0",
+          "label": "烧开清水",
+          "icon": "noodles-0"
+        },
+        {
+          "id": "noodles-1",
+          "label": "放入面条",
+          "icon": "noodles-1"
+        },
+        {
+          "id": "noodles-2",
+          "label": "煮熟捞出",
+          "icon": "noodles-2"
+        },
+        {
+          "id": "noodles-3",
+          "label": "配菜装碗",
+          "icon": "noodles-3"
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "name": "煮一锅米饭",
+      "steps": [
+        {
+          "id": "rice-0",
+          "label": "淘洗大米",
+          "icon": "rice-0"
+        },
+        {
+          "id": "rice-1",
+          "label": "加入清水",
+          "icon": "rice-1"
+        },
+        {
+          "id": "rice-2",
+          "label": "放入电饭煲",
+          "icon": "rice-2"
+        },
+        {
+          "id": "rice-3",
+          "label": "盛出米饭",
+          "icon": "rice-3"
+        }
+      ]
+    },
+    {
+      "id": "juice",
+      "name": "鲜榨橙汁",
+      "steps": [
+        {
+          "id": "juice-0",
+          "label": "洗净橙子",
+          "icon": "juice-0"
+        },
+        {
+          "id": "juice-1",
+          "label": "切成两半",
+          "icon": "juice-1"
+        },
+        {
+          "id": "juice-2",
+          "label": "压榨果汁",
+          "icon": "juice-2"
+        },
+        {
+          "id": "juice-3",
+          "label": "倒入杯中",
+          "icon": "juice-3"
+        }
+      ]
+    },
+    {
+      "id": "oats",
+      "name": "牛奶燕麦",
+      "steps": [
+        {
+          "id": "oats-0",
+          "label": "倒入燕麦",
+          "icon": "oats-0"
+        },
+        {
+          "id": "oats-1",
+          "label": "加入牛奶",
+          "icon": "oats-1"
+        },
+        {
+          "id": "oats-2",
+          "label": "小火煮熟",
+          "icon": "oats-2"
+        },
+        {
+          "id": "oats-3",
+          "label": "盛入碗中",
+          "icon": "oats-3"
+        }
+      ]
+    }
+  ]
+}

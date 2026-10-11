@@ -1,0 +1,131 @@
+{
+  "id": "5de18b93487e469a8b12d3fcef56eae3",
+  "title": "卧室",
+  "createdAt": "2026-10-01T04:38:35.398524+00:00",
+  "source": "sd_api",
+  "description": "",
+  "theme": "free",
+  "density": "simple",
+  "lighting": "day",
+  "request": {
+    "width": 768,
+    "height": 512,
+    "layout": "centered",
+    "seed": 770401837
+  },
+  "generationInfo": {
+    "layout": "centered",
+    "layoutVersion": 2,
+    "layoutSeed": 770401837,
+    "maxTileSize": [
+      184,
+      128
+    ],
+    "generations": [
+      {
+        "request": {
+          "prompt": "apple, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object",
+          "seed": 770401837,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"apple, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"apple, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\"], \"seed\": 770401837, \"all_seeds\": [770401837], \"subseed\": 3537935716, \"all_subseeds\": [3537935716], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"apple, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 770401837, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001123824\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 8,
+        "suggestedLabel": "apple",
+        "placement": {
+          "backgroundTrimmed": false,
+          "cropBox": null,
+          "displaySize": [
+            128,
+            128
+          ]
+        }
+      },
+      {
+        "request": {
+          "prompt": "cup, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object",
+          "seed": 770401838,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"cup, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"cup, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\"], \"seed\": 770401838, \"all_seeds\": [770401838], \"subseed\": 1744775902, \"all_subseeds\": [1744775902], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"cup, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 770401838, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001123828\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 2,
+        "suggestedLabel": "cup",
+        "placement": {
+          "backgroundTrimmed": false,
+          "cropBox": null,
+          "displaySize": [
+            128,
+            128
+          ]
+        }
+      },
+      {
+        "request": {
+          "prompt": "chair, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object",
+          "seed": 770401839,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"chair, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"chair, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\"], \"seed\": 770401839, \"all_seeds\": [770401839], \"subseed\": 746408077, \"all_subseeds\": [746408077], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"chair, one small object in the middle of a large blank canvas, zoomed out, full view, (entire object visible:1.4), (wide blank margins:1.4), centered product illustration, isolated on solid ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background, scenery, room, landscape, border, collage, close-up, zoomed in, cut off, partial object\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 770401839, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001123831\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 4,
+        "suggestedLabel": "chair",
+        "placement": {
+          "backgroundTrimmed": false,
+          "cropBox": null,
+          "displaySize": [
+            128,
+            128
+          ]
+        }
+      }
+    ]
+  },
+  "elapsedSeconds": 11.09,
+  "annotations": [],
+  "suggestedAnnotations": [
+    {
+      "label": "apple",
+      "x": 0.8333333333333334,
+      "y": 0.8333333333333334,
+      "zone": 8
+    },
+    {
+      "label": "cup",
+      "x": 0.8333333333333334,
+      "y": 0.16666666666666666,
+      "zone": 2
+    },
+    {
+      "label": "chair",
+      "x": 0.5,
+      "y": 0.5,
+      "zone": 4
+    }
+  ],
+  "layout": "centered",
+  "reviewed": false,
+  "revision": 0,
+  "deletedAt": "2026-10-01T04:44:51.294900+00:00"
+}

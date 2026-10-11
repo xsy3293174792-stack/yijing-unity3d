@@ -1,0 +1,103 @@
+{
+  "id": "afc8b6bd1db843b6aeb02cbe8ac01757",
+  "title": "小院物品 · 居中布局",
+  "createdAt": "2026-10-01T04:12:48.774269+00:00",
+  "source": "sd_api",
+  "description": "真实SD生成，用于检查居中布局；待人工审核。",
+  "theme": "courtyard",
+  "density": "simple",
+  "lighting": "day",
+  "request": {
+    "width": 768,
+    "height": 512,
+    "layout": "centered",
+    "seed": 20261001
+  },
+  "generationInfo": {
+    "layout": "centered",
+    "layoutSeed": 20261001,
+    "tileSize": 128,
+    "generations": [
+      {
+        "request": {
+          "prompt": "a bamboo chair, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background",
+          "seed": 20261001,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"a bamboo chair, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"a bamboo chair, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\"], \"seed\": 20261001, \"all_seeds\": [20261001], \"subseed\": 2049634686, \"all_subseeds\": [2049634686], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a bamboo chair, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 20261001, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001121237\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 8,
+        "suggestedLabel": "竹椅"
+      },
+      {
+        "request": {
+          "prompt": "a flowering plant in a terracotta pot, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background",
+          "seed": 20261002,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"a flowering plant in a terracotta pot, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"a flowering plant in a terracotta pot, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\"], \"seed\": 20261002, \"all_seeds\": [20261002], \"subseed\": 1330158504, \"all_subseeds\": [1330158504], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a flowering plant in a terracotta pot, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 20261002, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001121242\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 6,
+        "suggestedLabel": "盆花"
+      },
+      {
+        "request": {
+          "prompt": "a bamboo basket, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight",
+          "negative_prompt": "multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background",
+          "seed": 20261003,
+          "steps": 20,
+          "cfg_scale": 7,
+          "width": 512,
+          "height": 512,
+          "sampler_name": "Euler a",
+          "batch_size": 1,
+          "n_iter": 1,
+          "save_images": false
+        },
+        "info": "{\"prompt\": \"a bamboo basket, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\", \"all_prompts\": [\"a bamboo basket, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\"], \"negative_prompt\": \"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\", \"all_negative_prompts\": [\"multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\"], \"seed\": 20261003, \"all_seeds\": [20261003], \"subseed\": 3853819795, \"all_subseeds\": [3853819795], \"subseed_strength\": 0, \"width\": 512, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a bamboo basket, single object, centered, entire object visible, generous blank margin, isolated on plain warm ivory background, soft detailed watercolor illustration, soft daylight\\nNegative prompt: multiple objects, duplicate, cropped, out of frame, text, watermark, people, busy background\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 20261003, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20261001121245\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+        "zone": 7,
+        "suggestedLabel": "竹篮"
+      }
+    ]
+  },
+  "elapsedSeconds": 12.62,
+  "annotations": [],
+  "suggestedAnnotations": [
+    {
+      "label": "竹椅",
+      "x": 0.8333333333333334,
+      "y": 0.8333333333333334,
+      "zone": 8
+    },
+    {
+      "label": "盆花",
+      "x": 0.16666666666666666,
+      "y": 0.8333333333333334,
+      "zone": 6
+    },
+    {
+      "label": "竹篮",
+      "x": 0.5,
+      "y": 0.8333333333333334,
+      "zone": 7
+    }
+  ],
+  "layout": "centered",
+  "reviewed": false,
+  "revision": 0,
+  "deletedAt": "2026-10-01T04:44:55.577584+00:00"
+}

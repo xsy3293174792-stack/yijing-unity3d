@@ -1,0 +1,25 @@
+{
+  "id": "first-courtyard",
+  "title": "庭院 · 首次生成样例",
+  "createdAt": "2026-09-30T12:29:27.146569+00:00",
+  "source": "existing_sd_generation",
+  "description": "已通过本机Stable Diffusion生成的连接验证图，可重新标注后用于训练。",
+  "request": {
+    "prompt": "a quiet traditional Chinese courtyard garden, a wooden chair beside a stone table, potted flowers, tiled roof, warm morning sunlight, wide view, clear composition, detailed background illustration, empty scene, no people",
+    "negative_prompt": "people, person, human, text, watermark, signature, blurry, dark, horror, cluttered",
+    "seed": 20260930,
+    "steps": 20,
+    "cfg_scale": 7,
+    "width": 768,
+    "height": 512,
+    "sampler_name": "Euler a",
+    "batch_size": 1,
+    "n_iter": 1,
+    "save_images": false
+  },
+  "generationInfo": "{\"prompt\": \"a quiet traditional Chinese courtyard garden, a wooden chair beside a stone table, potted flowers, tiled roof, warm morning sunlight, wide view, clear composition, detailed background illustration, empty scene, no people\", \"all_prompts\": [\"a quiet traditional Chinese courtyard garden, a wooden chair beside a stone table, potted flowers, tiled roof, warm morning sunlight, wide view, clear composition, detailed background illustration, empty scene, no people\"], \"negative_prompt\": \"people, person, human, text, watermark, signature, blurry, dark, horror, cluttered\", \"all_negative_prompts\": [\"people, person, human, text, watermark, signature, blurry, dark, horror, cluttered\"], \"seed\": 20260930, \"all_seeds\": [20260930], \"subseed\": 2051942787, \"all_subseeds\": [2051942787], \"subseed_strength\": 0, \"width\": 768, \"height\": 512, \"sampler_name\": \"Euler a\", \"cfg_scale\": 7.0, \"steps\": 20, \"batch_size\": 1, \"restore_faces\": false, \"face_restoration_model\": null, \"sd_model_hash\": \"7f96a1a9ca\", \"seed_resize_from_w\": -1, \"seed_resize_from_h\": -1, \"denoising_strength\": 0, \"extra_generation_params\": {}, \"index_of_first_image\": 0, \"infotexts\": [\"a quiet traditional Chinese courtyard garden, a wooden chair beside a stone table, potted flowers, tiled roof, warm morning sunlight, wide view, clear composition, detailed background illustration, empty scene, no people\\nNegative prompt: people, person, human, text, watermark, signature, blurry, dark, horror, cluttered\\nSteps: 20, Sampler: Euler a, CFG scale: 7.0, Seed: 20260930, Size: 768x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, Seed resize from: -1x-1, Denoising strength: 0, Clip skip: 2, ENSD: 31337\"], \"styles\": [], \"job_timestamp\": \"20260930202920\", \"clip_skip\": 2, \"is_using_inpainting_conditioning\": false}",
+  "elapsedSeconds": 9.33,
+  "annotations": [],
+  "reviewed": false,
+  "revision": 0
+}
